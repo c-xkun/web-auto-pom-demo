@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+allure-results/
+allure-html/
+report.html
+*.log
+
+# Drivers (建议每个人自己配置，不提交)
+drivers/
+
+# OS
+.DS_Store
+Thumbs.db
